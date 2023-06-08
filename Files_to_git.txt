@@ -1,0 +1,21 @@
+for GRFN
+
+1.Package of PKG_GRFNQC , the Script Name is grfn_qc.sql
+
+2.Insert file Script  for Table GRFN_QC_MTFCCTABLEMAPPING , the Script Name is 
+insert_grfnqc_mtfcctablemapping.sql
+
+-------------------------------------
+grfqc_n_driver.sh file for GRFN
+-------------------------------------
+
+for GRFC
+
+1.Package of PKG_GRFCQC, the Script Name is grfc_qc.sql
+
+2.Insert file Script  for Table GRFC_QC_ENTITIES,the Script Name is 
+insert_grfcqc_entities.sql
+
+--------------------------------------
+grfqc_c_driver.sh
+--------------------------------------
